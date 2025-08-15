@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dalimfundo Day Care Centre</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dalimfundo Day Care Centre</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#enrollment">Enrollment</a></li>
+                <li><a href="#appreciation">Appreciation</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#follow">Follow Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to Dalimfundo Day Care Centre!</h2>
+            <p>Nestled in the heart of Delmas, Mpumalanga, Dalimfundo Day Care Centre is a sanctuary dedicated to fostering the growth and development of young children. Our warm and nurturing environment, coupled with the expertise of our caring staff, ensures that each child feels cherished, secure, and inspired to explore their unique potential. We believe that every child deserves a strong foundation, and we are here to provide just that.</p>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <h3>Our History</h3>
+            <p>Dalimfundo Day Care Centre was founded by Pastor Sunnyboy Mntakwende, who spent his formative years on the farms of Delmas. Launched in <strong>2013</strong> at Vlakplaats Farm with just a handful of children, our centre has since blossomed into a vibrant community that now proudly serves over <strong>400 children</strong>. A pivotal moment in our journey came in <strong>2017</strong>, when we relocated to Delmas Botleng N12, allowing us to expand our facilities and better cater to the needs of our growing community. Driven by Pastor Sunnyboy’s heartfelt passion for the well-being of children, we are committed to fostering a nurturing environment where every child can thrive. Today, we are fortunate to employ over <strong>20 dedicated staff members</strong>, all of whom share a deep commitment to nurturing young minds and instilling a love for learning.</p>
+            
+            <h3>Mission Statement</h3>
+            <p>At Dalimfundo Day Care Centre, our mission is to provide exceptional early childhood education in a safe, nurturing, and stimulating environment. We are committed to fostering creativity, personal growth, and mutual respect among our children. Our goal is to empower each child to express themselves freely, explore their interests with curiosity, and develop essential life skills that will serve them well into the future. We believe in a holistic approach to education, where every child’s emotional, social, and cognitive development is nurtured.</p>
+            
+            <h3>Vision Statement</h3>
+            <p>We envision Dalimfundo Day Care Centre as a beacon of excellence in early childhood education, recognized throughout the region for our unwavering dedication to nurturing well-rounded, confident, and compassionate children. Our vision is to cultivate an inclusive community where every child feels valued and supported, and where their unique talents can flourish. We aspire to create a legacy of lifelong learners who are not only equipped to face the challenges of tomorrow but also inspired to make a positive impact in the world around them.</p>
+        </section>
+
+        <section id="services">
+            <h2>Services</h2>
+            <ul>
+                <li><strong>Childcare:</strong> We provide a safe and nurturing environment for children aged 0-6 years, ensuring they feel at home while away from their families.</li>
+                <li><strong>Education:</strong> Our curriculum features age-appropriate learning activities designed to stimulate cognitive development and foster a love for learning through play.</li>
+                <li><strong>Nutrition:</strong> We recognize the vital role of nutrition in a child’s growth and development. To support this, we provide a well-balanced breakfast, nutritious snacks, and a wholesome lunch each day. Our meals are thoughtfully prepared to ensure that every child receives the essential nutrients needed to fuel their bodies and minds for a day filled with learning and play.</li>
+            </ul>
+        </section>
+
+        <section id="enrollment">
+            <h2>Enrollment</h2>
+            <p><strong>Join Our Family!</strong> We invite you to become part of the Dalimfundo family. To enroll your child, please visit us or reach out through our contact form. We are committed to inclusivity and welcome children from all backgrounds, striving to make our services accessible to every family in our community.</p>
+            <ul>
+                <li><strong>Requirements:</strong> To ensure a smooth enrollment process, please provide a completed enrollment form, a copy of your child's birth certificate, and their clinic card.</li>
+                <li><strong>Fees:</strong> We offer affordable monthly rates and are pleased to provide options for financial assistance to support families in need.</li>
+            </ul>
+        </section>
+
+        <section id="appreciation">
+            <h2>Appreciation</h2>
+            <p>We would like to take a moment to express our heartfelt gratitude to all our supporters, sponsors, and parents. Your unwavering love and support have been instrumental in our growth and success. It is through your generosity and commitment that we are able to provide a nurturing environment for our children and enhance the quality of education at Dalimfundo. Thank you for being an integral part of our journey!</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p><strong>Get in Touch!</strong> We would love to hear from you! For inquiries or further information, please reach out to us:</p>
+            <ul>
+                <li><strong>Address:</strong> 8615 Ext 6 Botleng, Delmas</li>
+                <li><strong>Phone:</strong> 083 247 4670</li>
+                <li><a href="https://www.google.com/maps/place/Dalimfundo+Day+Care+Centre/@-26.0915763,28.6948303,18z/data=!4m6!3m5!1s0x1eeacde9284e2311:0xd3f5d9fb1e54ce43!8m2!3d-26.0906518!4d28.6946668!16s%2Fg%2F11w535rmdq!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D">Google Maps Link</a></li>
+            </ul>
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <p>We invite you to explore our vibrant community through a curated gallery of images showcasing our daily activities, joyful events, and celebrations. At Dalimfundo, we believe in sharing the joy of learning and the cherished moments that define our centre.</p>
+        </section>
+
+        <section id="follow">
+            <h2>Follow Us</h2>
+            <p>Stay connected with us on social media for the latest updates, events, and more:</p>
+            <ul>
+                <li><a href="https://www.facebook.com/p/Dalimfundo-Day-Care-Center-100063545575055/">Facebook Link</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Dalimfundo Day Care Centre. All rights reserved.</p>
+    </footer>
+</body>
+</html>
